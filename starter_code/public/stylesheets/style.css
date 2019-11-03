@@ -1,0 +1,13 @@
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.index-img {
+    width: 100%;
+    height: 800px;
+    background-image: url("../images/chemical.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
